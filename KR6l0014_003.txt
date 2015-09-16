@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:22.291204
+#+DATE: 2015-08-30 20:50:27.554814
 #+TITLE: 尊婆須蜜菩薩所集論
 #+PROPERTY: CBETA_ID T28n1549
 #+PROPERTY: ID KR6l0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1549
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0014_T_003-0737c> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《尊婆須蜜菩薩所集論》卷第三¶
+《尊婆須蜜菩薩所集論》卷第三¶
 ¶
 尊婆須蜜造¶
 符秦罽賓三藏僧伽跋澄等譯¶
 
-2心揵度
-:PROPERTIES:
-:head: 心揵度首
-:END:
-¶
+心揵度首¶
 
 又世尊言。彼心意執持不去乎手。非二心齊¶
 等。云何心意執持不去乎手。摩訶僧耆作是¶
