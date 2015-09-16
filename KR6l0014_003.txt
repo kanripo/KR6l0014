@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:22.291204
+#+DATE: 2015-08-30 20:50:24.260862
 #+TITLE: 尊婆須蜜菩薩所集論
 #+PROPERTY: CBETA_ID T28n1549
 #+PROPERTY: ID KR6l0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1549
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6l0014_T_003-0737c> ¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《尊婆須蜜菩薩所集論》卷第三¶
+《尊婆須蜜菩薩所集論》卷第三¶
 ¶
 尊婆須蜜造¶
 符秦罽賓三藏僧伽跋澄等譯¶
 
-2心揵度
-:PROPERTIES:
-:head: 心揵度首
-:END:
-¶
+心揵度首¶
 
 又世尊言。彼心意執持不去乎手。非二心齊¶
 等。云何心意執持不去乎手。摩訶僧耆作是¶
@@ -140,7 +135,7 @@
 作是說。一事所須義是相應義。問忍智是一。¶
 欲使彼相應耶。答曰。彼非一時造。問如所說。¶
 一事義者是相應義。是事不然。或作是說。¶
-千義是相應義。識所適處各相開避。心所念
+十義是相應義。識所適處各相開避。心所念
 <pb:KR6l0014_T_003-0739a>¶
 法則有選數。或作是說。無有相應。何以故。¶
 彼非一切不俱生。問如所說心所念法。與心¶
